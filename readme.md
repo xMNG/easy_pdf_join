@@ -2,6 +2,7 @@
 Easy command line pdf joining, because I couldn't find an open source PDF joiner and I don't want to pay for acrobat pro
 
 <h2>REQUIREMENTS</h2>
+
 - Python 3.6+
 - PyPDF2 1.26.0+
  
