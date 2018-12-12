@@ -9,5 +9,5 @@ Easy command line pdf joining, because I couldn't find an open source PDF joiner
 
 - Enter into command line:
 ```
-python pdf_join.py --output=new_pdf.pdf --merge "pdf to merge 1" "pdf to merge 2" ...
+python easy_pdf_join.py --output=new_pdf.pdf --merge "pdf to merge 1" "pdf to merge 2" ...
 ```
